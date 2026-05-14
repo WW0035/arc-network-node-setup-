@@ -47,3 +47,18 @@ docker --version
 ```
 
 ---
+# Step 4 — Install Docker Compose
+
+Run:
+
+```bash
+sudo apt install docker-compose -y
+```
+
+Verify installation:
+
+```bash
+docker-compose --version
+```
+
+---
