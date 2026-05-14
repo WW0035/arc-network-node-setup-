@@ -157,3 +157,11 @@ docker logs CONTAINER_ID
 ```
 
 ---
+# Security Tips
+
+- Never share private keys
+- Use strong passwords
+- Keep server updated
+- Monitor server usage regularly
+
+---
