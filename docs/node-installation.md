@@ -77,3 +77,28 @@ cd arc-network-node-setup
 ```
 
 ---
+# Step 6 — Run Installation Script
+
+Make script executable:
+
+```bash
+chmod +x scripts/install.sh
+```
+
+Run installer:
+
+```bash
+./scripts/install.sh
+```
+
+---
+
+# Step 7 — Check Node Status
+
+Run health check:
+
+```bash
+./scripts/check.sh
+```
+
+---
