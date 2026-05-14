@@ -62,3 +62,18 @@ docker-compose --version
 ```
 
 ---
+# Step 5 — Clone Repository
+
+Clone this repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/arc-network-node-setup.git
+```
+
+Move into directory:
+
+```bash
+cd arc-network-node-setup
+```
+
+---
