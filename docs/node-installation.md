@@ -102,3 +102,49 @@ Run health check:
 ```
 
 ---
+# Useful Docker Commands
+
+Check running containers:
+
+```bash
+docker ps
+```
+
+Check all containers:
+
+```bash
+docker ps -a
+```
+
+Check logs:
+
+```bash
+docker logs CONTAINER_ID
+```
+
+Restart container:
+
+```bash
+docker restart CONTAINER_ID
+```
+
+Stop container:
+```bash
+docker stop CONTAINER_ID
+```
+
+---
+
+# Troubleshooting
+
+## Docker Permission Denied
+
+Run:
+
+```bash
+sudo usermod -aG docker $USER
+```
+
+Logout and login again.
+
+---
