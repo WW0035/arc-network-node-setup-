@@ -32,3 +32,18 @@ sudo apt install curl wget git -y
 ```
 
 ---
+# Step 3 — Install Docker
+
+Install Docker automatically:
+
+```bash
+curl -fsSL https://get.docker.com | bash
+```
+
+Check Docker version:
+
+```bash
+docker --version
+```
+
+---
