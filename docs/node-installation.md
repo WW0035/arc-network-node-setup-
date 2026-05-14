@@ -148,3 +148,12 @@ sudo usermod -aG docker $USER
 Logout and login again.
 
 ---
+## Container Not Starting
+
+Check logs:
+
+```bash
+docker logs CONTAINER_ID
+```
+
+---
