@@ -66,3 +66,10 @@ chmod +x scripts/install.sh
 Read:
 
 `docs/troubleshooting.md`
+---
+
+## Full Installation Guide
+
+Read:
+
+`docs/node-installation.md`
