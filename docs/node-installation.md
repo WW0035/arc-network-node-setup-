@@ -14,3 +14,12 @@ This guide explains how to install and run an Arc Network node on Ubuntu Linux.
 | OS | Ubuntu 22.04 |
 
 ---
+# Step 1 — Update Server
+
+Update system packages:
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+
+---
