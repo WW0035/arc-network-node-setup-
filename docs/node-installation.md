@@ -165,3 +165,12 @@ docker logs CONTAINER_ID
 - Monitor server usage regularly
 
 ---
+# Conclusion
+
+Your Arc Network node environment should now be ready.
+
+You can improve this setup later by adding:
+- automatic updates
+- monitoring
+- backup scripts
+- docker compose stack
