@@ -23,3 +23,12 @@ sudo apt update && sudo apt upgrade -y
 ```
 
 ---
+# Step 2 — Install Required Packages
+
+Install curl, wget and git:
+
+```bash
+sudo apt install curl wget git -y
+```
+
+---
